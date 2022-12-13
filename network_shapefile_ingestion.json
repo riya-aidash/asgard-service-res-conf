@@ -1,4 +1,4 @@
 {
-  "feederIdColumn" : "FeederName",
-  "idColumn" : "OBJECTID"
+  "feederTitleColumn" : "FeederName",
+  "featureTitleColumn" : "OBJECTID"
 }
